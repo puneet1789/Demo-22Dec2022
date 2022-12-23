@@ -3,3 +3,19 @@ Hi
 I made some changes in this file.
 
 I again made some changes.
+
+
+
+1) Install git 
+2) create git account
+
+3) create a repo public
+4) Local add name
+5) add email
+6) Generate SSH
+7) ake changes in your local code
+8) git init
+7) copy the command from the new repo screen
+8) git add
+9) git comit 
+10) git push origin master
